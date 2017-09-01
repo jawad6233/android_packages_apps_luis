@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE := OnePlusCamera-V8-siankatabg
+LOCAL_MODULE := OnePlusCamera_Luis
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_SRC_FILES := $(LOCAL_MODULE).apk
 LOCAL_MODULE_CLASS := APPS
@@ -11,7 +11,7 @@ include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE := OnePlusGallery-V8-siankatabg
+LOCAL_MODULE := OnePlusGallery_Luis
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_SRC_FILES := $(LOCAL_MODULE).apk
 LOCAL_MODULE_CLASS := APPS
